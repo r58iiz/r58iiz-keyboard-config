@@ -12,7 +12,10 @@ QMK/Vial etc etc based config for my keyboard(s)
 
 ## To Do
 
-[ ] Automate keymap image generation (https://github.com/caksoylar/keymap-drawer)
-[ ] Automate firmware (uf2) generation:
-    [ ] QMK
-    [ ] Vial
+- [ ] Automate keymap image generation (https://github.com/caksoylar/keymap-drawer)
+- [ ] Automate firmware (uf2) generation:
+    - [ ] QMK
+    - [ ] Vial
+- [ ] Create dockerfile:
+    - [ ] QMK
+    - [ ] Vial
